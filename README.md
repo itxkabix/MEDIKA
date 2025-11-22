@@ -1,4 +1,4 @@
-# Medi-Riba
+# Medika
 A LLM Chatbot which describes the disease and give solutions
 
 
